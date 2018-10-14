@@ -390,3 +390,4 @@ nbdist/
 .hgsub
 .hgsubstate
 .hgtags
+*.cache
