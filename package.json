@@ -1,23 +1,23 @@
 {
-  "name": "it-day",
-  "version": "1.0.0",
-  "description": "День IT-знаний - профориентационная акция",
-  "scripts": {
-    "start": "reload -bv -d public"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KOPTE3/it-day.git"
-  },
-  "keywords": [],
-  "author": "Ostapenko Anatoliy",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KOPTE3/it-day/issues"
-  },
-  "homepage": "https://github.com/KOPTE3/it-day#readme",
-  "dependencies": {
-    "firebase-tools": "^3.13.1",
-    "reload": "^2.2.2"
-  }
+	"name": "it-day",
+	"version": "1.0.0",
+	"description": "День IT-знаний - профориентационная акция",
+	"scripts": {
+		"start": "reload -bv -d public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KOPTE3/it-day.git"
+	},
+	"keywords": [],
+	"author": "Ostapenko Anatoliy",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/KOPTE3/it-day/issues"
+	},
+	"homepage": "https://github.com/KOPTE3/it-day#readme",
+	"dependencies": {
+		"firebase-tools": "^5.0.1",
+		"reload": "^2.3.1"
+	}
 }

@@ -3,11 +3,12 @@
 
 section.slide.first small {
 	display: inline-block;
-	font-size: 38px;
+	margin-top: 12px;
+	font-size: 44px;
 	font-weight: 100;
 }
 
 section.slide.first small a {
-	font-size: 42px;
+	font-size: 54px;
 	font-weight: 500;
 }
