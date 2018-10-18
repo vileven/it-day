@@ -391,3 +391,5 @@ nbdist/
 .hgsubstate
 .hgtags
 *.cache
+
+.idea
